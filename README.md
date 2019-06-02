@@ -1,3 +1,10 @@
+# nestjs-ideas
+Ideas List app tutorial repo
+
+Tutorial Link
+[link](https://www.youtube.com/watch?v=4GC8z0EfV6g&list=PLBeQxJQNprbiJm55q7nTAfhMmzIC8MWxc&index=1)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
@@ -73,3 +80,4 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
   Nest is [MIT licensed](LICENSE).
+
